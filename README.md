@@ -1,7 +1,7 @@
 
    # Mi primer proyecto
 
-   Soy Ana y estoy aprendiendo a usar GitHub.
+   Soy Maxi y estoy aprendiendo a usar GitHub.
 
    ## Mi objetivo
 
