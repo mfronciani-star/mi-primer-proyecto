@@ -6,8 +6,6 @@ student_id: maxi_fronciani
 
 Escala: small
 
-Respondé cada pregunta en una a tres oraciones. Cuando se pide un dato, copiá el valor que te dio el notebook.
-
 CAP y PACELC
 
 1- CP rechaza las operaciones en C porque quedó aislada y no puede garantizar el dato correcto. Sacrifica la disponibilidad.
